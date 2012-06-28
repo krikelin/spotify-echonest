@@ -1,3 +1,5 @@
+See http://www.github.com/krikelin/Echonest-Spotify
+
 spotify-echonest
 ================
 
